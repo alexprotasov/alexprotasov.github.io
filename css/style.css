@@ -1,0 +1,53 @@
+body{
+  background-image: url(https://www.setaswall.com/wp-content/uploads/2017/03/Space-Fantasy-4K-Ultra-HD-Wallpaper-3840x2160.jpg);
+  background-size: 170%;
+  font-family: Verdana;
+  text-align: center;
+  color: #F2F2F2;
+  font-size:20px ;
+}
+#survey-form {
+  background-color: rgba(13,68,122,0.7);
+  width: 700px;
+  padding:40px;
+  margin: auto;
+  text-align: left;
+  color: #F2F2F2;
+  border-radius: 10px;
+}
+ .input_control{
+ width: 600px;
+ padding:15px;
+ border-radius: 10px;
+ font-size: 20px;
+ background: linear-gradient(90deg, #69b7eb, #b3dbd3, #f4d6db);
+}
+.input_control:hover {background: #A6D5D8; color: #275EA4;}
+.select_control{
+ width: 632px;
+ padding:15px;
+ border-radius: 10px;
+ font-size: 20px;
+ background: linear-gradient(90deg, #69b7eb, #b3dbd3, #f4d6db);
+}
+.select_control:hover {background: #A6D5D8; color: #275EA4;}
+.submit{
+  width: 632px;
+  padding:15px;
+  border-radius: 10px;
+  font-size: 20px;
+  font-weight: bold;
+  background: linear-gradient(90deg, #69b7eb, #b3dbd3, #f4d6db);
+}
+.submit:hover {background: #A6D5D8; color: #275EA4;}
+#radio_size{
+  transform:scale(1.3);
+  opacity:0.9;
+  cursor:pointer;
+}
+
+#checkbox_size{
+  transform:scale(1.3);
+  opacity:0.9;
+  cursor:pointer;
+}
